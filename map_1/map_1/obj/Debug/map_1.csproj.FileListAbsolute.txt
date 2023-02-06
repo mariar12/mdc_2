@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\map_1\map_1\bin\Debug\map_1.exe.config
+C:\Users\HP\source\repos\map_1\map_1\bin\Debug\map_1.exe
+C:\Users\HP\source\repos\map_1\map_1\bin\Debug\map_1.pdb
+C:\Users\HP\source\repos\map_1\map_1\obj\Debug\map_1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\map_1\map_1\obj\Debug\map_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\map_1\map_1\obj\Debug\map_1.Form1.resources
+C:\Users\HP\source\repos\map_1\map_1\obj\Debug\map_1.Properties.Resources.resources
+C:\Users\HP\source\repos\map_1\map_1\obj\Debug\map_1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\map_1\map_1\obj\Debug\map_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\map_1\map_1\obj\Debug\map_1.exe
+C:\Users\HP\source\repos\map_1\map_1\obj\Debug\map_1.pdb
