@@ -5,15 +5,15 @@ class Program
 static void Main()
 {
    double a, x, b0, bk, delta_b, R, b;
-   Console.WriteLine("vvedite a");
+   Console.WriteLine("введите a");
     a = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("vvedite x");
+    Console.WriteLine("введите x");
     x = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("vvedite b0");
+    Console.WriteLine("введите b0");
     b0 = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("vvedite bk");
+    Console.WriteLine("введите bk");
     bk = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("vvedite delta_b");
+    Console.WriteLine("введите delta_b");
     delta_b = Convert.ToDouble(Console.ReadLine());
    
    for (b = b0; b <= bk; b += delta_b)
