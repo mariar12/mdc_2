@@ -1,0 +1,58 @@
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.AssemblyReference.cache
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\AddEditPage.g.cs
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\HotelsPage.g.cs
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\MainWindow.g.cs
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\App.g.cs
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp_Content.g.cs
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.cache
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.lref
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursPage.g.cs
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\ToursApp.exe.config
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\ToursApp.exe
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\ToursApp.pdb
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\EntityFramework.dll
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\EntityFramework.xml
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\App.baml
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\AddEditPage.baml
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\HotelsPage.baml
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\MainWindow.baml
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursPage.baml
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.g.resources
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.Properties.Resources.resources
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.GenerateResource.cache
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CoreCompileInputs.cache
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CopyComplete
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.exe
+D:\learning\МДК 2.0\1 work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.pdb
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\ToursApp.exe.config
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\ToursApp.exe
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\ToursApp.pdb
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\EntityFramework.dll
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\EntityFramework.xml
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.AssemblyReference.cache
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\AddEditPage.g.cs
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\HotelsPage.g.cs
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\MainWindow.g.cs
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursPage.g.cs
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\App.g.cs
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp_Content.g.cs
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.cache
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.lref
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\App.baml
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\AddEditPage.baml
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\HotelsPage.baml
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\MainWindow.baml
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursPage.baml
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.g.resources
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.Properties.Resources.resources
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.GenerateResource.cache
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CoreCompileInputs.cache
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CopyComplete
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.exe
+D:\learning\МДК_2.0\1)work\laba12(ToursApp)\ToursApp\ToursApp\obj\Debug\ToursApp.pdb
